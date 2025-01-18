@@ -1,0 +1,15 @@
+[submodule "cc65"]
+	path = cc65
+	url = https://github.com/cc65/cc65
+[submodule "AtariSIO"]
+	path = AtariSIO
+	url = https://github.com/HiassofT/AtariSIO
+[submodule "cc1541"]
+	path = cc1541
+	url = https://github.com/TrantorHF/cc1541
+[submodule "toolshed"]
+	path = toolshed
+	url = https://github.com/nitros9project/toolshed
+[submodule "AppleCommander"]
+	path = AppleCommander
+	url = https://github.com/AppleCommander/AppleCommander
